@@ -1,14 +1,15 @@
-h1{ color:white;font-size: 50px;font-style: italic;text-align: center;background-color: black;}
-h2{ color:white;font-size: 50px;font-style: italic;text-align: center;background-color: black;}
-h3{ font-size: 50px;}
-h4{
- font-size: 50px;
+h1{ color: white;font-size: 50px;font-style: initial;text-align: center;background-color: black;}
+h2{ color:black;background-color: black ;border: solid 8px greenyellow;}
+.heading{
+    font: size 8px;
+    color: beige;
 }
-.link:hover{
-    color: white;
-    background: black;
-}
-.link:hover{
-    color: white;
-    background: black;
-}
+.Atif{ 
+font: 8px;
+color: beige;
+
+ }
+ .saleem{ 
+    font: 8px;
+    color: beige;
+ }
